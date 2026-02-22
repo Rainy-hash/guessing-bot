@@ -1,3 +1,5 @@
+# Now, tempting as it may be I do ask that you refrain from looking, unless if you get impatient to see what cookies im talking about
+
 easter_eggs = {
     0: "Nothing",
     42: "The answer to everything",
