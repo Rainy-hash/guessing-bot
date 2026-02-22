@@ -1,7 +1,7 @@
 import time
 import random
 from num2words import num2words
-from easterEggs import easter_eggs
+from easterEggs import cookies_video, easter_eggs
 
 def guess_yours():
     print("Hello! Please enter a number, any number and I'll be able to guess what it is!")
@@ -32,7 +32,7 @@ def guess_mine():
             print("My creator Rainy wanted me to give you this YouTube video\nas a reward, these are the best cookies he's ever made.")
             time.sleep(1)
             print("We hope you enjoy it as much as we did.\n")
-            print("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+            print(f"{cookies_video}")
         else:
             print("Wrong! One more try:")
             guess = int(input("> "))
