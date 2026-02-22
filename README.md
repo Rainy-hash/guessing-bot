@@ -7,6 +7,3 @@ Option 2 gives you the chance to try to guess what number it thinks of, you only
 
 Guess it's number right and you will be given an amazing reward
 
-
-https://github.com/user-attachments/assets/e555d298-3a0f-4a4c-8aab-199f25f90e4b
-
